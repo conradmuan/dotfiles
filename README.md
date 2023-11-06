@@ -1,3 +1,3 @@
 # dotfiles
 
-Backup of ~/.config
+Backup of ~/.config and .vimrc
